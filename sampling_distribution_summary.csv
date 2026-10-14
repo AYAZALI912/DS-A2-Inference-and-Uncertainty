@@ -1,0 +1,2 @@
+replications,true_effect,mean_estimate,bias_estimate,empirical_sd,theoretical_se
+3000,0.3,0.297096037261241,-0.0029039627387589806,0.22271413984241153,0.22360679774997896

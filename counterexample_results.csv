@@ -1,0 +1,5 @@
+distribution,n_per_group,sigma,true_effect,repetitions,alpha,rejection_rate,coverage_rate,mean_ci_width
+normal,40,1.0,0.0,3000,0.05,0.059,0.941,0.8879154391066025
+normal,40,1.0,0.3,3000,0.05,0.259,0.947,0.8873917485236295
+heavy_tailed,40,1.0,0.0,3000,0.05,0.047,0.953,0.8641104217937662
+heavy_tailed,40,1.0,0.3,3000,0.05,0.32233333333333336,0.957,0.8496787116872186
